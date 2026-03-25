@@ -1,7 +1,4 @@
 # khydrawall
-
-> **Author:** semihyurur (khydra)
-
 A lightweight, production-ready DDoS mitigation tool for Linux VPS servers. Operates across four stacked protection layers from the driver level down to the application level.
 
 ## Architecture
