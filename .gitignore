@@ -1,0 +1,22 @@
+# Compiled XDP object
+*.o
+
+# Runtime state and logs
+state.json
+khydrawall.log
+webhook.conf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
